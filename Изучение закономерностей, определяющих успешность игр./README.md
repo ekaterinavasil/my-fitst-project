@@ -21,6 +21,9 @@ README.md
 - Python;
 - Pandas;
 - NumPy;
+- SciPy;
+- Matplotlib;
+- Plotly Express;
 - предобработка данных;
 - исследовательский анализ данных;
 - описательная статистика;
